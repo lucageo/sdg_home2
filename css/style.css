@@ -7,7 +7,6 @@
  */
 
  #learn > div > div > div > div > img{
-       filter: grayscale(0.5);
  }
 .logos > img{
   border: 1px solid #f1f1f1;
